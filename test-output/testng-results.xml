@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+    <line>
+      <![CDATA[Execution Start]]>
+    </line>
+    <line>
+      <![CDATA[Execution End]]>
+    </line>
+  </reporter-output>
+  <suite started-at="2023-06-22T19:14:11 IST" name="Default suite" finished-at="2023-06-22T19:15:21 IST" duration-ms="70219">
+    <groups>
+    </groups>
+    <test started-at="2023-06-22T19:14:11 IST" name="Default test" finished-at="2023-06-22T19:15:21 IST" duration-ms="70219">
+      <class name="com.testyantra.testcases.TC_1">
+        <test-method is-config="true" signature="executestart()[pri:0, instance:com.testyantra.testcases.TC_1@4802796d]" started-at="2023-06-22T19:14:11 IST" name="executestart" finished-at="2023-06-22T19:14:11 IST" duration-ms="38" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Execution Start]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- executestart -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.testyantra.testcases.TC_1@4802796d]" started-at="2023-06-22T19:14:11 IST" name="setup" finished-at="2023-06-22T19:15:06 IST" duration-ms="54680" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="login1()[pri:0, instance:com.testyantra.testcases.TC_1@4802796d]" started-at="2023-06-22T19:15:06 IST" name="login1" finished-at="2023-06-22T19:15:21 IST" duration-ms="15383" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login1 -->
+        <test-method is-config="true" signature="executionend()[pri:0, instance:com.testyantra.testcases.TC_1@4802796d]" started-at="2023-06-22T19:15:22 IST" name="executionend" finished-at="2023-06-22T19:15:22 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Execution End]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- executionend -->
+      </class> <!-- com.testyantra.testcases.TC_1 -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
